@@ -16,7 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 DOCUMENTATION :
 - Home Screen
 ![image](https://github.com/user-attachments/assets/bcfa56ce-eb0b-4dd4-968e-8e87de381095)
-- after Create, Read, Update
+- Create, Read, Update
 ![image](https://github.com/user-attachments/assets/1b4fc49b-fa4c-4e6f-a94d-30f471c08c09)
 - Search Function
 ![image](https://github.com/user-attachments/assets/3e96d835-b1d3-4529-8ad5-5c095d751a96)
